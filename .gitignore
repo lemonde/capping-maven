@@ -1,0 +1,12 @@
+# User specific files
+/local.properties
+.idea/
+*.iml
+
+# Gradle build files
+.gradle/
+build/
+
+# OS Specific files
+.DS_Store*
+._*
